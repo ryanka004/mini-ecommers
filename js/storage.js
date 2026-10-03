@@ -1,4 +1,4 @@
-import {cart} from "./script.js"
+import {cart} from "../script.js"
 export function simpan(){
     let data = JSON.stringify(cart)
     localStorage.setItem('cart',data)

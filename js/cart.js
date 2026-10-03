@@ -1,6 +1,6 @@
-import { divCart } from "./script.js"
-import {cart} from "./script.js"
-import { textTotal } from "./script.js"
+import { divCart } from "../script.js"
+import {cart} from "../script.js"
+import { textTotal } from "../script.js"
 import { simpan } from "./js/storage.js"
 
 export function tampilkanCart(){

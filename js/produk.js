@@ -1,5 +1,5 @@
-import { divProduk } from "./script.js"
-import { cart } from "./script.js"
+import { divProduk } from "../script.js"
+import { cart } from "../script.js"
 import { simpan } from "./js/storage.js"
 export function tampilkanProduk(produk){
     
