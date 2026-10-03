@@ -7,5 +7,5 @@ export function ambil(){
     let data= localStorage.getItem('cart')
     let hasil= JSON.parse(data)
     return hasil
-    console.log(cart)
+    
 }
